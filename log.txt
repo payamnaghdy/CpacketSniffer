@@ -1,0 +1,102 @@
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 78 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 78 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+Mac:Source Mac:9c.b6.d0.f5.fb.83 , Destination Mac:b4.f1.da.ec.2e.7f 
+IP:Source IP: 192.168.43.73 , Destination IP: 104.74.92.158 , Checksum : 37717 , Protocol : 6 , TTL: 64 , ID: 63093 , Fragment offset : 16384 
+TCP:Source Port: 26698 , Destination Port : 23710 , Sequence Number: 2409234875 , Acknowledge Number : 901564020 , Window Size : 40925 , Checksum   : 32792 ,  Synchronise Flag   : 0 , Finish Flag     : 0 , Urgent Flag    : 1 , Acknowledgement Flag : 1 , Reset Flag   : 1 , Data Offset : 16 
+########################################################################################
+Mac:Source Mac:9c.b6.d0.f5.fb.83 , Destination Mac:b4.f1.da.ec.2e.7f 
+IP:Source IP: 192.168.43.73 , Destination IP: 104.74.92.158 , Checksum : 37747 , Protocol : 6 , TTL: 64 , ID: 63094 , Fragment offset : 16384 
+TCP:Source Port: 26698 , Destination Port : 23710 , Sequence Number: 2409234875 , Acknowledge Number : 901564051 , Window Size : 40925 , Checksum   : 32785 ,  Synchronise Flag   : 0 , Finish Flag     : 0 , Urgent Flag    : 1 , Acknowledgement Flag : 1 , Reset Flag   : 1 , Data Offset : 16 
+########################################################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 32 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+Mac:Source Mac:9c.b6.d0.f5.fb.83 , Destination Mac:b4.f1.da.ec.2e.7f 
+IP:Source IP: 192.168.43.73 , Destination IP: 192.0.73.2 , Checksum : 49021 , Protocol : 6 , TTL: 64 , ID: 34352 , Fragment offset : 16384 
+TCP:Source Port: 49152 , Destination Port : 18690 , Sequence Number: 3751543227 , Acknowledge Number : 3604926059 , Window Size : 46368 , Checksum   : 20504 ,  Synchronise Flag   : 1 , Finish Flag     : 1 , Urgent Flag    : 0 , Acknowledgement Flag : 0 , Reset Flag   : 0 , Data Offset : 8 
+########################################################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 78 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+Mac:Source Mac:b4.f1.da.ec.2e.7f , Destination Mac:9c.b6.d0.f5.fb.83 
+IP:Source IP: 104.74.92.158 , Destination IP: 192.168.43.73 , Checksum : 42469 , Protocol : 6 , TTL: 49 , ID: 62200 , Fragment offset : 16384 
+TCP:Source Port: 58922 , Destination Port : 53110 , Sequence Number: 16844042 , Acknowledge Number : 901564051 , Window Size : 50836 , Checksum   : 49847 ,  Synchronise Flag   : 0 , Finish Flag     : 0 , Urgent Flag    : 1 , Acknowledgement Flag : 1 , Reset Flag   : 1 , Data Offset : 12 
+########################################################################################
+Mac:Source Mac:b4.f1.da.ec.2e.7f , Destination Mac:9c.b6.d0.f5.fb.83 
+IP:Source IP: 104.74.92.158 , Destination IP: 192.168.43.73 , Checksum : 42480 , Protocol : 6 , TTL: 49 , ID: 62201 , Fragment offset : 16384 
+TCP:Source Port: 58924 , Destination Port : 37792 , Sequence Number: 2953838711 , Acknowledge Number : 4018798592 , Window Size : 2058 , Checksum   : 42228 ,  Synchronise Flag   : 0 , Finish Flag     : 1 , Urgent Flag    : 0 , Acknowledgement Flag : 0 , Reset Flag   : 0 , Data Offset : 0 
+########################################################################################
+Mac:Source Mac:b4.f1.da.ec.2e.7f , Destination Mac:9c.b6.d0.f5.fb.83 
+IP:Source IP: 104.74.92.158 , Destination IP: 192.168.43.73 , Checksum : 42448 , Protocol : 6 , TTL: 49 , ID: 62202 , Fragment offset : 16384 
+TCP:Source Port: 58924 , Destination Port : 37792 , Sequence Number: 352518912 , Acknowledge Number : 448380084 , Window Size : 43281 , Checksum   : 48493 ,  Synchronise Flag   : 1 , Finish Flag     : 1 , Urgent Flag    : 1 , Acknowledgement Flag : 1 , Reset Flag   : 0 , Data Offset : 4 
+########################################################################################
+Mac:Source Mac:9c.b6.d0.f5.fb.83 , Destination Mac:b4.f1.da.ec.2e.7f 
+IP:Source IP: 192.168.43.73 , Destination IP: 104.74.92.158 , Checksum : 37613 , Protocol : 6 , TTL: 64 , ID: 63240 , Fragment offset : 16384 
+TCP:Source Port: 26698 , Destination Port : 23710 , Sequence Number: 2409234875 , Acknowledge Number : 901564052 , Window Size : 0 , Checksum   : 20484 ,  Synchronise Flag   : 0 , Finish Flag     : 0 , Urgent Flag    : 0 , Acknowledgement Flag : 0 , Reset Flag   : 0 , Data Offset : 0 
+########################################################################################
+Mac:Source Mac:b4.f1.da.ec.2e.7f , Destination Mac:9c.b6.d0.f5.fb.83 
+IP:Source IP: 104.74.92.158 , Destination IP: 192.168.43.73 , Checksum : 42478 , Protocol : 6 , TTL: 49 , ID: 62203 , Fragment offset : 16384 
+TCP:Source Port: 58924 , Destination Port : 37792 , Sequence Number: 352518912 , Acknowledge Number : 448380084 , Window Size : 43281 , Checksum   : 48493 ,  Synchronise Flag   : 1 , Finish Flag     : 1 , Urgent Flag    : 1 , Acknowledgement Flag : 1 , Reset Flag   : 0 , Data Offset : 4 
+########################################################################################
+Mac:Source Mac:b4.f1.da.ec.2e.7f , Destination Mac:9c.b6.d0.f5.fb.83 
+IP:Source IP: 192.0.73.2 , Destination IP: 192.168.43.73 , Checksum : 48147 , Protocol : 6 , TTL: 54 , ID: 37786 , Fragment offset : 16384 
+TCP:Source Port: 6201 , Destination Port : 34617 , Sequence Number: 1852546673 , Acknowledge Number : 295691954 , Window Size : 20833 , Checksum   : 23392 ,  Synchronise Flag   : 1 , Finish Flag     : 0 , Urgent Flag    : 0 , Acknowledgement Flag : 1 , Reset Flag   : 0 , Data Offset : 20 
+########################################################################################
+Mac:Source Mac:9c.b6.d0.f5.fb.83 , Destination Mac:b4.f1.da.ec.2e.7f 
+IP:Source IP: 192.168.43.73 , Destination IP: 192.0.73.2 , Checksum : 49066 , Protocol : 6 , TTL: 64 , ID: 34353 , Fragment offset : 16384 
+TCP:Source Port: 49152 , Destination Port : 18690 , Sequence Number: 3751543227 , Acknowledge Number : 3604926105 , Window Size : 46414 , Checksum   : 20496 ,  Synchronise Flag   : 1 , Finish Flag     : 1 , Urgent Flag    : 0 , Acknowledgement Flag : 0 , Reset Flag   : 0 , Data Offset : 8 
+########################################################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 32 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 78 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 78 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 32 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 32 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 78 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+Mac:Source Mac:9c.b6.d0.f5.fb.83 , Destination Mac:b4.f1.da.ec.2e.7f 
+IP:Source IP: 192.168.43.73 , Destination IP: 151.101.1.69 , Checksum : 38381 , Protocol : 6 , TTL: 64 , ID: 8205 , Fragment offset : 16384 
+TCP:Source Port: 38757 , Destination Port : 325 , Sequence Number: 3184656827 , Acknowledge Number : 137324126 , Window Size : 1209 , Checksum   : 32792 ,  Synchronise Flag   : 0 , Finish Flag     : 1 , Urgent Flag    : 0 , Acknowledgement Flag : 1 , Reset Flag   : 1 , Data Offset : 16 
+########################################################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 78 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+Mac:Source Mac:9c.b6.d0.f5.fb.83 , Destination Mac:b4.f1.da.ec.2e.7f 
+IP:Source IP: 192.168.43.73 , Destination IP: 216.58.206.226 , Checksum : 52900 , Protocol : 6 , TTL: 64 , ID: 55522 , Fragment offset : 16384 
+TCP:Source Port: 55354 , Destination Port : 52962 , Sequence Number: 2171601339 , Acknowledge Number : 3439046374 , Window Size : 56918 , Checksum   : 32792 ,  Synchronise Flag   : 1 , Finish Flag     : 1 , Urgent Flag    : 0 , Acknowledgement Flag : 1 , Reset Flag   : 0 , Data Offset : 48 
+########################################################################################
+Mac:Source Mac:b4.f1.da.ec.2e.7f , Destination Mac:9c.b6.d0.f5.fb.83 
+IP:Source IP: 151.101.1.69 , Destination IP: 192.168.43.73 , Checksum : 19309 , Protocol : 6 , TTL: 54 , ID: 29837 , Fragment offset : 16384 
+TCP:Source Port: 44340 , Destination Port : 56742 , Sequence Number: 386073344 , Acknowledge Number : 691659640 , Window Size : 40801 , Checksum   : 2016 ,  Synchronise Flag   : 0 , Finish Flag     : 1 , Urgent Flag    : 0 , Acknowledgement Flag : 0 , Reset Flag   : 1 , Data Offset : 4 
+########################################################################################
+Mac:Source Mac:9c.b6.d0.f5.fb.83 , Destination Mac:b4.f1.da.ec.2e.7f 
+IP:Source IP: 192.168.43.73 , Destination IP: 151.101.1.69 , Checksum : 38426 , Protocol : 6 , TTL: 64 , ID: 8206 , Fragment offset : 16384 
+TCP:Source Port: 38757 , Destination Port : 325 , Sequence Number: 3184656827 , Acknowledge Number : 137324172 , Window Size : 1255 , Checksum   : 32784 ,  Synchronise Flag   : 0 , Finish Flag     : 1 , Urgent Flag    : 0 , Acknowledgement Flag : 1 , Reset Flag   : 1 , Data Offset : 16 
+########################################################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 32 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+IP:Source IP: 80.37.94.163 , Destination IP: 25.154.199.169 , Checksum : 24256 , Protocol : 1 , TTL: 42 , ID: 32 , Fragment offset : 1791 
+ICMP:Type : 25 , Code : 154 , Checksum : 51113
+###########################################################
+Mac:Source Mac:b4.f1.da.ec.2e.7f , Destination Mac:9c.b6.d0.f5.fb.83 
+IP:Source IP: 216.58.206.226 , Destination IP: 192.168.43.73 , Checksum : 44519 , Protocol : 6 , TTL: 50 , ID: 18336 , Fragment offset : 0 
+TCP:Source Port: 47390 , Destination Port : 6624 , Sequence Number: 386073344 , Acknowledge Number : 687865856 , Window Size : 0 , Checksum   : 11211 ,  Synchronise Flag   : 0 , Finish Flag     : 0 , Urgent Flag    : 0 , Acknowledgement Flag : 0 , Reset Flag   : 0 , Data Offset : 0 
+########################################################################################
+Mac:Source Mac:9c.b6.d0.f5.fb.83 , Destination Mac:b4.f1.da.ec.2e.7f 
+IP:Source IP: 192.168.43.73 , Destination IP: 216.58.206.226 , Checksum : 52945 , Protocol : 6 , TTL: 64 , ID: 55523 , Fragment offset : 16384 
+TCP:Source Port: 55354 , 
